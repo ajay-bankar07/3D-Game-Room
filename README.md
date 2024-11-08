@@ -46,4 +46,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Special thanks to online tutorials and resources for inspiration and guidance in building this project.
 
 ## Author
-@ajay-bankar07
+https://github.com/ajay-bankar07
